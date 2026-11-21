@@ -5,23 +5,23 @@ class Chronostack < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.7/chronostack-0.1.0-alpha.7-darwin-arm64.tar.gz"
-      sha256 "009550dfb21d6f8365ec3518b20709c69d531c421b536d14f9693eed143c597e"
+      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.8/chronostack-0.1.0-alpha.8-darwin-arm64.tar.gz"
+      sha256 "aa1508a39f6d62de0a4d98eb8080e9d6170a3a1328b14475bf45940790f6674f"
     end
     on_intel do
-      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.7/chronostack-0.1.0-alpha.7-darwin-x64.tar.gz"
-      sha256 "969ede0a62116e5db912a5708188883f43afe6c8f5eaa82117956105107b8994"
+      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.8/chronostack-0.1.0-alpha.8-darwin-x64.tar.gz"
+      sha256 "9eda4a1e8a4dbee7fd986c57aa37b9a2b4f17e8ac650f8a97a257dafe2381e06"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.7/chronostack-0.1.0-alpha.7-linux-arm64.tar.gz"
-      sha256 "20aed1512bf23f647ddc3779cd31f9432850587733f19c9735f9f92fcdcab21f"
+      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.8/chronostack-0.1.0-alpha.8-linux-arm64.tar.gz"
+      sha256 "6651fea2d87271fa02723cca676da54b1143a67ce579d0fc3956105674eded54"
     end
     on_intel do
-      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.7/chronostack-0.1.0-alpha.7-linux-x64.tar.gz"
-      sha256 "c92dbc09072992895d66922a19c813c32ed856cbc4cbd353cd55119a785d1fab"
+      url "https://github.com/Asmodeus14/ChronoStack/releases/download/v0.1.0-alpha.8/chronostack-0.1.0-alpha.8-linux-x64.tar.gz"
+      sha256 "580d16f5bc264703a393871cb6fa9be5bf975e4c7e40bf82be6989c601223983"
     end
   end
 
